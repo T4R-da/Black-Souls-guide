@@ -18,7 +18,7 @@ void BS1Endings()
 
         if (BS1Ending == 'A')
         {
-            std::cout << "Save all 10 companions, raise them to Lv100+, have 0 Sin, and after killing Cinderella choose “Everyone Together.”" << std::endl;
+            std::cout << "Save all 10 companions, raise them to Lv100+, have 0 Sin, and after killing Cinderella choose Everyone Together." << std::endl;
         }
         else if (BS1Ending == 'B')
         {
