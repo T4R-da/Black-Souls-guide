@@ -1,1 +1,1 @@
-g++ main.cpp -o Black_Souls-guide.exe
+g++ main.cpp functions.hpp -o Black_Souls-guide.exe
